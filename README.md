@@ -3,10 +3,12 @@
 # 한국어 감성 대화를 위한 Gemma2 기반 모델 (Gemma2 for Korean Empathetic Dialogue)
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Kaggle Inference](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/hwkims/fork-of-gemma2-for-korean-mental-wellbeing-infere)
-[![Kaggle Model](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/models/hwkims/gemma2-ko-dialogue-lora)
-[![Kaggle Model](https://kaggle.com/static/images/models-badge.svg)](https://www.kaggle.com/models/hwkims/gemma2-ko-dialogue-lora)
 
+[![Kaggle Inference](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/hwkims/fork-of-gemma2-for-korean-mental-wellbeing-infere)
+
+[![Kaggle Model](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/models/hwkims/gemma2-ko-dialogue-lora)
+ 
+https://www.kaggle.com/code/hwkims/gemma2-2b-lora-ed-ai-hub-fine-tuning
 
 ## 소개 (Introduction)
 
