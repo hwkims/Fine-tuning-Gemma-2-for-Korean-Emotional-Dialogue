@@ -6,6 +6,7 @@
 ## 소개 (Introduction)
 
 본 레포지토리는 Google의 Gemma2 (2B 파라미터) 모델을 기반으로 한국어 감성 대화 지원을 위한 챗봇을 구현하는 프로젝트입니다. [Google - Unlock Global Communication with Gemma](https://www.kaggle.com/competitions/google-gemma/overview) Kaggle Competition에 참여하면서 개발되었습니다. [gemma2-ko-dialogue-lora](https://www.kaggle.com/models/hyun-woo-kim/gemma2-ko-dialogue-lora) 모델(LoRA)은 *AI Hub의 감성 대화 말뭉치 데이터를 사용하여 Gemma2 모델을 fine-tuning 한 결과*입니다. 공감적인 대화 능력을 향상시키기 위해 노력했습니다.
+![image](https://github.com/user-attachments/assets/ea2613d0-9c8d-4781-9a9a-964b5f7191a6)
 
 ## 모델 (Model)
 
