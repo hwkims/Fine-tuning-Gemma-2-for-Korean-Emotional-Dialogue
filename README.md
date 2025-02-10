@@ -55,8 +55,7 @@ https://www.kaggle.com/code/hwkims/gemma2-2b-lora-ed-ai-hub-fine-tuning
 
 5.  **학습 결과:**
     *  [Fine-tuning Kaggle Notebook](https://www.kaggle.com/code/hwkims/gemma2-2b-lora-ed-ai-hub-fine-tuning) 실행 결과 생성된 LoRA 가중치 파일을 다운로드 받아 사용할 수 있습니다.
-    *  [그래프 추가]: 학습 과정에서의 loss 변화를 보여주는 그래프를 첨부하면 좋습니다. (Kaggle 노트북의 Matplotlib 그래프를 이미지로 저장하여 첨부)
-
+ 
 ## 추론 노트북 (Inference Notebook)
 
 `inference_notebook.ipynb` 에는 모델을 로드하고, 사용자 입력을 받아 응답을 생성하는 추론 코드가 포함되어 있습니다.
@@ -94,8 +93,7 @@ https://www.kaggle.com/code/hwkims/gemma2-2b-lora-ed-ai-hub-fine-tuning
 *   **데이터 다운로드:**
     *   AI Hub 웹사이트에서 회원 가입 및 로그인 후 다운로드 가능합니다. (내국인만 가능)
     *   [AI Hub 데이터 다운로드 페이지](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=86)에서 "다운로드" 버튼을 클릭하여 다운로드 받을 수 있습니다.
-    *   *데이터 용량이 크므로(20.35MB), 다운로드 시 주의하시기 바랍니다.*
-
+ 
 ## 참고 자료 (References)
 
 *   [Gemma2 모델 설명](링크)  (Gemma2 관련 공식 문서나 블로그 글 링크)
@@ -112,8 +110,4 @@ Pull requests are welcome.  For major changes, please open an issue first to dis
 ## 라이선스 (License)
 
 본 프로젝트는 [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)를 따릅니다. AI Hub의 "감성 대화 말뭉치" 데이터는 별도의 이용 약관 및 라이선스를 따르므로, 사용 시 주의하시기 바랍니다.
-
-## (선택) `requirements.txt` 생성
-
-```bash
-pip freeze > requirements.txt
+ 
