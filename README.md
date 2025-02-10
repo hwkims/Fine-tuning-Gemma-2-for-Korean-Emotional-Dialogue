@@ -1,9 +1,12 @@
- 
+c 
 ![image](https://github.com/user-attachments/assets/ea2613d0-9c8d-4781-9a9a-964b5f7191a6)
 # 한국어 감성 대화를 위한 Gemma2 기반 모델 (Gemma2 for Korean Empathetic Dialogue)
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/hwkims/fork-of-gemma2-for-korean-mental-wellbeing-infere)
+[![Kaggle Inference](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/hwkims/fork-of-gemma2-for-korean-mental-wellbeing-infere)
+[![Kaggle Model](https://kaggle.com/static/images/models-badge.svg)](https://www.kaggle.com/models/hwkims/gemma2-ko-dialogue-lora)
+
+
 
 ## 소개 (Introduction)
 
